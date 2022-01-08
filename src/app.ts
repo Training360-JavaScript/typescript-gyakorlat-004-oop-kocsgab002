@@ -1,4 +1,6 @@
 // Importáld be a HumanHero és TransformerHero osztályokat.
+import { TransformerHero } from './transformer';
+import { HumanHero } from './hero';
 
 
 /**
